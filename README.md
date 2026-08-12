@@ -7,7 +7,7 @@ release notes и документация.
 
 ## Ссылки
 
-- [Релизы / Downloads](https://github.com/DrillOps/drillops-releases/releases)
+- [Релизы / Downloads](https://github.com/Vanilla76e2/DrillOps.Releases/releases)
 - Документация — скоро (GitHub Pages)
 
 ## License

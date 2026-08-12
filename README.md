@@ -1,2 +1,15 @@
-# DrillOps.Releases
-Public DrillOps releases: Desktop installer, auto-update manifest, patch notes, and user docs. Source code lives in the private DrillOps repository.
+# drillops-releases
+
+Публичный канал поставки DrillOps: установщики Desktop, каталог версий для автообновления,
+release notes и документация.
+
+Исходный код приложения находится в приватном репозитории DrillOps.
+
+## Ссылки
+
+- [Релизы / Downloads](https://github.com/DrillOps/drillops-releases/releases)
+- Документация — скоро (GitHub Pages)
+
+## License
+
+Лицензия будет опубликована отдельно.

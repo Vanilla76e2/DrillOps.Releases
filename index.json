@@ -1,14 +1,14 @@
 {
     "feedVersion":  1,
-    "publishedAt":  "2026-08-24T04:43:20Z",
+    "publishedAt":  "2026-08-25T08:28:14Z",
     "siteUrl":  "https://vanilla76e2.github.io/DrillOps.Releases/",
     "desktop":  {
-                    "version":  "0.4.0-beta",
-                    "clientContractVersion":  4,
-                    "minApiContractVersion":  4,
-                    "downloadUrl":  "https://github.com/Vanilla76e2/DrillOps.Releases/releases/download/0.4.0-beta/DrillOps.Desktop-Setup-0.4.0-beta.exe",
-                    "sha256":  "325373a9ccd6658cf120ecf29ff76bf16bcfa99505786d8c5f3e2f91a1b2d2dd",
-                    "releaseNotes":  "DrillOps Desktop 0.4.0-beta",
-                    "releaseNotesUrl":  "https://github.com/Vanilla76e2/DrillOps.Releases/releases/tag/0.4.0-beta"
+                    "version":  "0.5.0-beta",
+                    "clientContractVersion":  5,
+                    "minApiContractVersion":  5,
+                    "downloadUrl":  "https://github.com/Vanilla76e2/DrillOps.Releases/releases/download/0.5.0-beta/DrillOps.Desktop-Setup-0.5.0-beta.exe",
+                    "sha256":  "a648b50b542b3bdb487f15d4c081b80ade70c378a1a500f285f3feb234c9d7c0",
+                    "releaseNotes":  "DrillOps Desktop 0.5.0-beta",
+                    "releaseNotesUrl":  "https://github.com/Vanilla76e2/DrillOps.Releases/releases/tag/0.5.0-beta"
                 }
 }

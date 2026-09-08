@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/Vanilla76e2/DrillOps.Releases/main/index.json
 |--------|------------|
 | **[Releases](https://github.com/Vanilla76e2/DrillOps.Releases/releases)** | Установщики `DrillOps.Desktop-Setup-*.exe` |
 | **`index.json`** | Machine-readable feed для автообновления Desktop |
-| **`docs/`** *(планируется)* | Руководство пользователя, patch notes (GitHub Pages) |
+| **[Manual](https://vanilla76e2.github.io/DrillOps.Manual/)** | Руководство пользователя, patch notes (GitHub Pages) |
 | **`LICENSE`** | Лицензионное соглашение на использование ПО |
 
 ---
